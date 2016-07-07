@@ -12,6 +12,6 @@
 hs_err_pid*
 
 lotto.iml
-.idea/workspace.xml
+/.idea
 
 /target
